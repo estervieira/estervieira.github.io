@@ -59,7 +59,7 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #eeeeee;
+    color: #63082c;
     font-size: 20px;
 }
 
@@ -93,7 +93,7 @@
 }
 
 .right-title {
-    color: #eeeeee;
+    color: #63082c;
     font-size: 20px;
 }
 
@@ -132,7 +132,7 @@
 .exp-position,
 .education-subject,
 .awards-name {
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .exp-desc,
@@ -155,4 +155,10 @@
 
 .exp-left, .exp-right {
    padding-bottom: 20px;
+}
+
+.education-contents, .titlee {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
 }
